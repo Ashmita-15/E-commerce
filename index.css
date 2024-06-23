@@ -461,3 +461,168 @@ footer ul li{
     height:38vh;
   }
 }
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .main{
+    height:200vh;
+  }
+  .log{
+    width:50px;
+    height:2vh;
+  }
+ .textbox{
+  padding:2px 1.5px;
+  font-size: 10px;
+ } 
+ .nav1 .list1{
+    font-size: 10px;
+ }
+ .cont{
+  height:40vh;
+ }
+ .cont .im{
+  margin-left:2%;
+  width: 15%;
+  height: 15vh;
+ margin-top: -5%;
+ }
+ .cont .ima{
+  width:20%;
+  height: 15vh;
+  margin-left: 1%;
+  margin-top: -10%;
+}
+.cont .pi{
+  width:20%;
+  height:15vh;
+  margin-top: 5%;
+  
+}
+.cont .pict{
+  width:25%;
+  height:25%;
+  margin-bottom: 35%;
+}
+.title{
+  font-size: 30px;
+  margin-left: 60%;
+  margin-top: 15%;
+  text-decoration: underline;
+   }
+   .cont nav {
+    height:5vh;
+   }
+   .candles{
+    color: rgb(1, 1, 33);
+    font-size: 15px;
+    margin-left: -30%;
+  }
+  .cards1{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 60px 60px 60px 60px 60px;
+    grid-template-rows: 150px 70px;
+  }
+  .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+  }
+  .cards .card{
+    background-color: rgb(231, 227, 227);
+    height: 14vh;
+    width: 450px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 1px;
+    margin-top: -10px;
+  }
+  .card img{
+    width:96%;
+    height: 5vh;
+    margin: 2%;
+    box-sizing: border-box;
+    border-radius: 9px;
+  }
+  .card p{
+    color:rgb(42, 47, 30);
+    font-size: 3px;
+  }
+  .card span{
+    color:rgb(42, 47, 30);
+    font-size: 3px;
+   top:2%;
+  }
+  .card .line2{
+    
+    margin-left: 5px;
+  }
+  .card .line{
+    text-decoration: line-through;
+  }
+  .card .line3{
+    margin-left: 10px;
+  }
+  .card button{
+   background-color:rgb(42, 47, 30) ;
+    color: white;
+  }
+  .butt{
+    margin-top: -1px;
+      margin-left: 15px
+  }
+  .butt button{
+    font-size: 5px;
+    border-radius: 2px;
+  }
+  .container{
+    height:14vh;
+  }
+  .container1{
+    height:30vh;
+  }
+  .cart{
+    width:10px;
+    height:1vh;
+   }
+   .user{
+    width:10px;
+    height:1vh;
+   }
+   .nav1{
+    height: 5vh;
+   }
+   .image{
+  margin-left: -30px;
+  width: 25px;
+  height: 2vh;
+  margin-bottom: -3.5px;
+}
+img {
+  height: 40vh;
+}
+p {
+  font-size: 30px;
+}  
+.cont nav p {
+  font-size: 9px;
+}
+.pictu .spa {
+  font-size: 12px;
+}
+.pictu .sp select {
+  padding: 5px 10px;
+}
+.pictu img {
+  width: 70px;
+  height: 5vh;
+}
+.nav2{
+  height: 4vh;
+}
+}
+
