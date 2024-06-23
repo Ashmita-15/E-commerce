@@ -449,7 +449,7 @@ height:4vh;
   .butt{
     margin-top: 20px;
     margin-left: 25%;
-
+  
   }
   .butt button{
     padding:1px 1.5px;
@@ -463,6 +463,7 @@ height:4vh;
     height:38vh;
   }
 }
+
 
 @media only screen and (max-width:500px) {
   *{
@@ -580,7 +581,8 @@ height:4vh;
       margin-left: 15px
   }
   .butt button{
-    font-size: 5px;
+      padding:1px 1.5px;
+    font-size: 3px;
     border-radius: 2px;
   }
   .container{
