@@ -351,6 +351,7 @@ footer ul li{
  } 
 .nav2{
 height:4vh;
+}
  .cont{
   height:50vh;
  }
@@ -462,7 +463,7 @@ height:4vh;
     height:38vh;
   }
 }
-}
+
 @media only screen and (max-width:500px) {
   *{
     margin: 0;
