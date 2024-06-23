@@ -461,6 +461,7 @@ footer ul li{
     height:38vh;
   }
 }
+@media  screen and (max-width:500px) {
 *{
     margin: 0;
     padding: 0;
