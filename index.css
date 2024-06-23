@@ -334,7 +334,7 @@ footer ul li{
   font-family:"Gill Sans", sans-serif;
   margin-left: 5%;
 }
-@media  screen and (max-width:1350px) {
+@media  only screen and (max-width:1350px) {
   *{
     margin: 0;
     padding: 0;
@@ -460,7 +460,7 @@ footer ul li{
     height:38vh;
   }
 }
-@media  screen and (max-width:500px) {
+@media  only screen and (max-width:500px) {
   *{
     margin: 0;
     padding: 0;
