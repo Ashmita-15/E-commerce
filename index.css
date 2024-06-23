@@ -335,3 +335,129 @@ footer ul li{
   font-family:"Gill Sans", sans-serif;
   margin-left: 5%;
 }
+@media  screen and (max-width:1350px) {
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .main{
+    height:250vh;
+  }
+  .log{
+    width:50px;
+    height:2vh;
+  }
+ .textbox{
+  padding:9px 5px;
+ } 
+ .cont{
+  height:50vh;
+ }
+ .cont .im{
+  margin-left:2%;
+  width:20%;
+ height: 20vh;
+ margin-top: -5%;
+ }
+ .cont .ima{
+  width:20%;
+  height:20vh;
+  margin-left: 1.5%;
+  
+  margin-top: -10%;
+}
+.cont .pi{
+  width:20%;
+  height:20vh;
+  margin-top: 5%;
+  
+}
+.cont .pict{
+  width:25%;
+  height:25%;
+  margin-bottom: 30%;
+}
+.title{
+  font-size: 40px;
+  margin-left: 60%;
+  margin-top: 15%;
+  text-decoration: underline;
+   }
+   .cont nav {
+    height:4vh;
+   }
+   .candles{
+    color: rgb(1, 1, 33);
+    font-size: 20px;
+    margin-left: -30%;
+  }
+  .cards1{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 10px 10px;
+    grid-template-columns: 120px 120px 120px 120px 120px;
+    grid-template-rows: 17.5vh 17.5vh;
+  }
+  .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .cards .card{
+    background-color: rgb(231, 227, 227);
+    height: 15vh;
+    width: 450px;
+   margin-left: 2%;
+    margin-right: 2%;
+    
+    border-radius: 15px;
+  }
+  .card img{
+    width:96%;
+    height: 5vh;
+    margin: 2%;
+    box-sizing: border-box;
+    border-radius: 9px;
+  }
+  .card p{
+    color:rgb(42, 47, 30);
+    font-size: 9px;
+  }
+  .card span{
+    color:rgb(42, 47, 30);
+    font-size: 9px;
+   top:2%;
+  }
+  .card .line2{
+    
+    margin-left: 5px;
+  }
+  .card .line{
+    text-decoration: line-through;
+  }
+  .card .line3{
+    margin-left: 10px;
+  }
+  .card button{
+   background-color:rgb(42, 47, 30) ;
+    color: white;
+  }
+  .butt{
+    margin-top: 20px;
+    margin-left: 25%;
+
+  }
+  .butt button{
+    padding:1px 1.5px;
+    font-size: 10px;
+    border-radius: 7px;
+  }
+  .container{
+    height:17vh;
+  }
+  .container1{
+    height:38vh;
+  }
+}
